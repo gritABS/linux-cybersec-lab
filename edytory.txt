@@ -1,0 +1,20 @@
+total 68
+drwx------ 8 abs  abs  4096 Nov  6 11:12 .
+drwxr-xr-x 5 root root 4096 Oct 20 18:41 ..
+-rw------- 1 abs  abs  1489 Oct 20 19:10 .bash_history
+-rw-r--r-- 1 abs  abs   220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 abs  abs  3771 Feb 13  2026 .bashrc
+drwx------ 2 abs  abs  4096 Oct 10 11:31 .cache
+-rw-rw-r-- 1 abs  abs    82 Nov  4 21:24 .gitconfig
+-rw------- 1 abs  abs    31 Oct 11 10:21 .lesshst
+drwx------ 3 abs  abs  4096 Oct 24 10:01 .local
+-rw-r--r-- 1 abs  abs   807 Feb 13  2026 .profile
+drwx------ 2 abs  abs  4096 Nov  4 21:47 .ssh
+drwxrwxr-x 5 abs  abs  4096 Oct 20 18:10 Lab1
+drwxrwxr-- 1 abs  abs   372 Oct 20 18:54 listing.txt
+-rw-rw-r-- 1 abs  abs    15 Oct 20 18:54 wiersze.txt
+Kacper Lis
+r-x 2 abs  abs  4096 Oct 24 09:53 Lab2
+drwxrwxr-x 4 abs  abs  4096 Nov  6 18:29 Lab3
+-rw-rw-r-- 1 abs  abs    32 Oct 20 18:13 data.txt
+
