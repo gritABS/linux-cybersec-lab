@@ -1,0 +1,13 @@
+#!/bin/bash
+Dzien1=Poniedzialek
+Dzien2=Wtorek
+Dzien3=Sroda
+Dzien4=Czwartek
+Dzien5=Piatek
+Dzien6=Sobota
+Dzien7=Niedziela
+for dzien in "$Dzien1" "$Dzien2" "$Dzien3" "$Dzien4" "$Dzien5" "$Dzien6" "$Dzien7";
+do
+	echo "Dzis jest $dzien"
+done
+
